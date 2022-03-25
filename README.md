@@ -3,13 +3,13 @@
 <div align="center">
   <a href="https://github.com/victorsartor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorsartor&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorsartor&layout=compact&langs_count=7&theme=material-palenight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorsartor&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/51e806558ed5c5c6aae20da077229ab2.gif">
+  <img align="right" alt="Rafa-pic" height="180" style="border-radius:50px;" src="https://i.picasion.com/pic92/51e806558ed5c5c6aae20da077229ab2.gif">
 </div>
   
   ##

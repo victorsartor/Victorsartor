@@ -9,7 +9,7 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="180" style="border-radius:50px;" src="https://i.picasion.com/pic92/51e806558ed5c5c6aae20da077229ab2.gif">
+ 
 </div>
   
   ##
